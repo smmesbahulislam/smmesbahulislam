@@ -7,10 +7,24 @@
 </h1>
 
 <h3 align="center">A full-stack web developer from Bangladesh 🇧🇩</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"> -->
-<p align="center">
+
+<!-- <p align="center">
   <img alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-</p>
+</p> -->
+
+<table align="center">
+<tr>
+<td align="center">
+<img alt="SM Mesbahul Islam" src="https://avatars.githubusercontent.com/u/60798405?s=400&u=b786e816a17ceec95689a60489443c9258294349&v=4" width="300">
+</td>
+<td align="center">
+<img alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+</td>
+</tr>
+</table>
+
+
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sm-mesbahul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="sm-mesbahul-islam" /> </p> -->
 
@@ -79,7 +93,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Merci + 🤗!+✌️;+Shoot+me+a+message+on+Linkedin!;+Sayōnaraaaaaaaaaaaa+🐱">
 </h3>
 
 <br/>
